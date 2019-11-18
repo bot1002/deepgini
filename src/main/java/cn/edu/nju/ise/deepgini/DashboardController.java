@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
+import java.io.File;
+import java.io.IOException;
+
 @Controller
 public class DashboardController {
 
@@ -19,8 +22,26 @@ public class DashboardController {
 
 
     @RequestMapping(value = "/uploadFile", method = RequestMethod.POST)
-    public String uploadFile(@RequestParam MultipartFile file){
+    public String uploadFile(@RequestParam MultipartFile file,@RequestParam String type){
+        String filePath ;
+        if(type.equals("model")){
+            filePath =  "./src/main/resources/modelFiles/" +file.getOriginalFilename();
+        }else if(type.equals("testSet")){
+            filePath =  "./src/main/resources/testSetFiles/" +file.getOriginalFilename();
+        }else {
+            filePath = "./" +file.getOriginalFilename();
+        }
+        File desFile = new File(filePath);
+        try {
+            if(!desFile.exists()){
+                desFile.createNewFile();
+            }
+            file.transferTo(desFile);
+        } catch (IllegalStateException | IOException e) {
+            e.printStackTrace();
+        }
         System.out.println(file.getOriginalFilename());
         return "hello";
     }
+
 }
