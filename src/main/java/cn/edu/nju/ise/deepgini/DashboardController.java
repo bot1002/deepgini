@@ -25,9 +25,9 @@ public class DashboardController {
     public String uploadFile(@RequestParam MultipartFile file,@RequestParam String type){
         String filePath ;
         if(type.equals("model")){
-            filePath =  "./src/main/resources/modelFiles/" +file.getOriginalFilename();
+            filePath =  "src/main/resources/modelFiles/" +file.getOriginalFilename();
         }else if(type.equals("testSet")){
-            filePath =  "./src/main/resources/testSetFiles/" +file.getOriginalFilename();
+            filePath =  "src/main/resources/testSetFiles/" +file.getOriginalFilename();
         }else {
             filePath = "./" +file.getOriginalFilename();
         }
@@ -36,7 +36,7 @@ public class DashboardController {
             if(!desFile.exists()){
                 desFile.createNewFile();
             }
-            file.transferTo(desFile);
+            file.transferTo(desFile.getAbsoluteFile());
         } catch (IllegalStateException | IOException e) {
             e.printStackTrace();
         }
