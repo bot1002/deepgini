@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1915a50e-2711-4ba8-8e4c-8ca4b4eb5bcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.001.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.002.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.003.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.004.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.006.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.007.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.008.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.009.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.010.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.011.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.013.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.017.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.018.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.020.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.021.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.026.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.028.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.036.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.039.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.053.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.063.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.065.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.082.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.083.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.084.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.086.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.090.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.093.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.103.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.105.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.111.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.116.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/model_cifar10.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/model_fashion.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/model_mnist.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/model/model_svhn.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_deep_metric.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_nac_t_0.75.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_nac_t_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/mnist_exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mnist_exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/model_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/model_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/src/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/src/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/statistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/statistic.py" afterDir="false" />
-    </list>
+    <list default="true" id="1915a50e-2711-4ba8-8e4c-8ca4b4eb5bcc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="dummy://restClient/response5.json" root0="SKIP_INSPECTION" />
@@ -245,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582894538734</updated>
-      <workItem from="1582894539967" duration="16113000" />
+      <workItem from="1582894539967" duration="16484000" />
     </task>
     <servers />
   </component>
