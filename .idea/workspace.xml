@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1915a50e-2711-4ba8-8e4c-8ca4b4eb5bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.001.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.002.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.003.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.004.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.006.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.007.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.008.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.009.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.010.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.011.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.013.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.017.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.018.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.020.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.021.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.026.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.028.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.036.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.039.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.053.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.063.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.065.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.082.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.083.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.084.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.086.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.090.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.093.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.103.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.105.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.111.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/cifar10_ResNet20v1_model.116.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/model_cifar10.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/model_fashion.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/model_mnist.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/model/model_svhn.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_deep_metric.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_nac_t_0.75.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_nac_t_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/output_mnist/mnist_tknc_k_3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/mnist_exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/mnist_exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/model_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/model_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/statistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/statistic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response5.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YR9SOwHYlaEJhuQNclDhyjEcbg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/prioritize" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/hello" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/prioritize" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RestServiceApplication">
+    <configuration name="http-requests-log#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="http-requests-log#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_2#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="RestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="deepgini" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deepgini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="deepgini.RestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RestServiceApplication" />
+        <item itemvalue="HTTP Request.http-requests-log#2" />
+        <item itemvalue="HTTP Request.http-requests-log#1" />
+        <item itemvalue="HTTP Request.rest-api_2#1" />
+        <item itemvalue="HTTP Request.rest-api_1#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1915a50e-2711-4ba8-8e4c-8ca4b4eb5bcc" name="Default Changelist" comment="" />
+      <created>1582894538734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582894538734</updated>
+      <workItem from="1582894539967" duration="16113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="156" key="#Project_Structure" timestamp="1582894549140">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="541" y="156" key="#Project_Structure/0.23.1680.959@0.23.1680.959" timestamp="1582894549140" />
+    <state x="599" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582944881241">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="599" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.959@0.23.1680.959" timestamp="1582944881241" />
+    <state x="718" y="236" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582962009300">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="718" y="236" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.959@0.23.1680.959" timestamp="1582962009300" />
+    <state x="725" y="356" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1582961901167">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="725" y="356" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.23.1680.959@0.23.1680.959" timestamp="1582961901167" />
+    <state x="380" y="123" width="1200" height="719" key="DiffContextDialog" timestamp="1582962000578">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="380" y="123" width="1200" height="719" key="DiffContextDialog/0.23.1680.959@0.23.1680.959" timestamp="1582962000578" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1582965260282">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1582965260282" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1582965260280">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1582965260280" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1582965260280">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1582965260280" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1582965260281">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1582965260281" />
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom" timestamp="1582965260283">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.bottom/0.23.1680.959@0.23.1680.959" timestamp="1582965260283" />
+    <state width="1358" height="244" key="GridCell.Tab.1.center" timestamp="1582965260282">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.center/0.23.1680.959@0.23.1680.959" timestamp="1582965260282" />
+    <state width="1358" height="244" key="GridCell.Tab.1.left" timestamp="1582965260282">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.left/0.23.1680.959@0.23.1680.959" timestamp="1582965260282" />
+    <state width="1358" height="244" key="GridCell.Tab.1.right" timestamp="1582965260283">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.1.right/0.23.1680.959@0.23.1680.959" timestamp="1582965260283" />
+    <state width="1358" height="302" key="GridCell.Tab.2.bottom" timestamp="1582951863951">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="302" key="GridCell.Tab.2.bottom/0.23.1680.959@0.23.1680.959" timestamp="1582951863951" />
+    <state width="1358" height="302" key="GridCell.Tab.2.center" timestamp="1582951863951">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="302" key="GridCell.Tab.2.center/0.23.1680.959@0.23.1680.959" timestamp="1582951863951" />
+    <state width="1358" height="302" key="GridCell.Tab.2.left" timestamp="1582951863950">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="302" key="GridCell.Tab.2.left/0.23.1680.959@0.23.1680.959" timestamp="1582951863950" />
+    <state width="1358" height="302" key="GridCell.Tab.2.right" timestamp="1582951863951">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state width="1358" height="302" key="GridCell.Tab.2.right/0.23.1680.959@0.23.1680.959" timestamp="1582951863951" />
+    <state x="489" y="121" key="SettingsEditor" timestamp="1582962309623">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="489" y="121" key="SettingsEditor/0.23.1680.959@0.23.1680.959" timestamp="1582962309623" />
+    <state x="718" y="253" key="extract.method.dialog" timestamp="1582946462761">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="718" y="253" key="extract.method.dialog/0.23.1680.959@0.23.1680.959" timestamp="1582946462761" />
+  </component>
+</project>
